@@ -1,12 +1,4 @@
-### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-This is the place where I opensource stuff and break things :rofl:
-
-<div align="center">
-<img src="" align="center" height="" width="600" />
-</div>  
-  
-
-## Hi, Dude!  
+## Hi, Dude! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
   
 
 My name is Salavat! A novice developer who strives to constantly learn something new is full of ambition. At this stage I am learning C# and the Unity engine  
