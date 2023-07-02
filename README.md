@@ -35,7 +35,7 @@ My name is Salavat! A novice developer who strives to constantly learn something
 
 
 ## Connect with me  
-[![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/MrStrong08)
+[![Telegram Badge](https://img.shields.io/badge/-Salavat-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/MrStrong08)
   
 
 <br/>  
