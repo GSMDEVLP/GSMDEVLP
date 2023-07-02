@@ -35,11 +35,7 @@ My name is Salavat! A novice developer who strives to constantly learn something
 
 
 ## Connect with me  
-<div align="center">
-<a href="https://github.com/GSMDEVLP" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>  
+[![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/MrStrong08)
   
 
 <br/>  
